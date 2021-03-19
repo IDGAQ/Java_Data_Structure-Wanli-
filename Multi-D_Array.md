@@ -7,7 +7,7 @@ int [][] myNumbers;
 
 ## Access:
 ```java
-println(cars[0][0];
+println(cars[0][0]);
 ```
 
 ## Change Element:
