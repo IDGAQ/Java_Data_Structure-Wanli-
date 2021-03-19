@@ -1,4 +1,4 @@
-# Linked List
+# LinkedList
 ---
 
 ## besides all the methods of ArrayList
