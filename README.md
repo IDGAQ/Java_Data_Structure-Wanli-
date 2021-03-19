@@ -4,7 +4,7 @@
 ---------
 
 ## 1. Array
-## 2. multi-dimensional Array （动态规划）
+## 2. multi-dimensional Array (动态规划）
 ## 3. ArrayList (当不确定array size时）
 ## 4. Linked List
 ## 5. Stack
