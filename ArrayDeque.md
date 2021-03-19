@@ -2,7 +2,9 @@
 ---
 
 ## Declare:
+```java
 ArrayDeque <String> animals = new ArrayDeque<>();
+```
 
 ## Change element:
 ```java
@@ -51,6 +53,7 @@ pollFirst()
 pollLast()
 _________________________
 ```
+
 ## Iterate:
 ```java
 Iterator <Object> iterate = animals.iterator();
