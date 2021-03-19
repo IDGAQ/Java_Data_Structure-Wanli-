@@ -40,14 +40,15 @@ remove()
 removeFirst()
 remove(element)
 removeLast()
+
+//remove all
+clear()
 _________________________
 //return 1st element then remove
 poll()
 pollFirst()
 //return last element then remove
 pollLast()
-
-clear()
 _________________________
 ```
 ## Iterate:
