@@ -16,4 +16,4 @@
 ---
 (LinkedList & PriorityQueue is Queue's sons)
 
-(tbh, half of these are useless, l wouldn't learn them unless for an interview or a LC competition)
+(tbh, 1/3 of these are useless, l wouldn't learn them unless for an interview or a LC competition)
