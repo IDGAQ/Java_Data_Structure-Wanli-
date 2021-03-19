@@ -27,7 +27,7 @@ for(int i=0;i<myNumbers.length;i++)
 {
   for(int j=0;j<myNumbers[0].length;j++)
   {
-    System.out.println(myNumbers[0][0];
+    System.out.println(myNumbers[i][j];
   }
 }
 
