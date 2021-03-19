@@ -14,3 +14,4 @@
 ## 9. Binary Search Tree
 ### updating....
 ---
+(LinkedList & PriorityQueue is Queue's sons)
