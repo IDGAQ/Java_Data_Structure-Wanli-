@@ -15,3 +15,4 @@
 ### updating....
 ---
 (LinkedList & PriorityQueue is Queue's sons)
+(tbh, half of these are useless, l wouldn't learn them unless for a LC or HackerRank competition)
