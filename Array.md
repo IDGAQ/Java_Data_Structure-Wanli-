@@ -24,11 +24,13 @@ cars.length;
 
 ## Loop:
 ```Java
+//regular loop
 for(int i=0;i<cars.length;i++)
 {
   System.out.println(cars[i]);
 }
 
+//for-each
 for(String a: cars)
 {
   System.out.print(a);
