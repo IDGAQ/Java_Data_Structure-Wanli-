@@ -57,9 +57,10 @@ _________________________
 ## Iterate:
 ```java
 Iterator <Object> iterate = animals.iterator();
+
 while(iterate.hasNext())
 {
-print(iterate.next());
+  print(iterate.next());
 }
 ```
 
