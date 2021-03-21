@@ -4,7 +4,7 @@
 ---------
 
 
-## 1. Array #####[link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 1. Array [#####link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
 ## 2. multi-dimensional Array (动态规划）
 ## 3. ArrayList (当不确定array size时）
 ## 4. Linked List
