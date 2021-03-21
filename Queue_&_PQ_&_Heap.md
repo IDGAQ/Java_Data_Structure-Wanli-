@@ -72,6 +72,10 @@ PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>();
 ```
 ---
 
+# Indexed Priority Queue
+![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.25.48%20AM.png)
+
+
 
 
 # Heap
