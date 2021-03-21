@@ -4,14 +4,14 @@
 ---------
 
 
-## 1. Array [#####link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
-## 2. multi-dimensional Array (动态规划）
-## 3. ArrayList (当不确定array size时）
-## 4. Linked List
-## 5. Stack （顶）
-## 6. ArrayDeque （顶，底）
-## 7. Queue （add at end, remove at top）
-## 8. Binary Tree 
-## 9. Binary Search Tree
+## 1. Array [link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 2. multi-dimensional Array (动态规划）[link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 3. ArrayList (当不确定array size时）[link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 4. Linked List [link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 5. Stack （顶）[link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 6. ArrayDeque （顶，底）[link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 7. Queue （add at end, remove at top）[link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 8. Binary Tree [link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+## 9. Binary Search Tree [link](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
 ### updating....
 ---
