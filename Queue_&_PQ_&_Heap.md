@@ -84,6 +84,4 @@ PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>();
 
 ## siftup()
 ## siftdown()
-## graph of PQ tree
-## IC questions such as Top-K
-## Everything else the same
+
