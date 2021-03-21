@@ -55,6 +55,10 @@ for(String element : queue) {
 #### 完全二叉树的条件：
 #### 1.除了最后一层，其他层都排满了
 #### 2.最后一层的所有非空节点都排在左边
+![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.41.04%20AM.png)
+![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.41.42%20AM.png)
+![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.42.15%20AM.png)
+
 
 ## Declare:
 ```java
