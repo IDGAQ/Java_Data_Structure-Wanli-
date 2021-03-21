@@ -60,6 +60,13 @@ for(String element : queue) {
 ```java
 PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>();
 ```
+---
+
+# Heap
+![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.33.33%20AM.png)
+
+
+
 # Keep updating ⬇️
 
 ## siftup()
