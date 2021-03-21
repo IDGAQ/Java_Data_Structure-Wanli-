@@ -59,6 +59,7 @@ for(String element : queue) {
 ![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.41.04%20AM.png)
 ![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.41.42%20AM.png)
 ![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.42.15%20AM.png)
+![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.55.33%20AM.png)
 
 
 ## Declare:
