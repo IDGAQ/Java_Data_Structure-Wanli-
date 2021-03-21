@@ -3,8 +3,7 @@
 #### if you find any error or bad expression, feel free to tell me ####
 ---------
 
-http://github.com - automatic!
-[GitHub](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+(https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
 ## 1. Array
 ## 2. multi-dimensional Array (动态规划）
 ## 3. ArrayList (当不确定array size时）
@@ -16,6 +15,3 @@ http://github.com - automatic!
 ## 9. Binary Search Tree
 ### updating....
 ---
-(LinkedList & PriorityQueue is Queue's sons)
-
-(tbh, 1/3 of these are useless, l wouldn't learn them unless for an interview or a LC competition)
