@@ -3,7 +3,7 @@
 #### if you find any error or bad expression, feel free to tell me ####
 ---------
 
-Visit (https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
+[1](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Array.md)
 ## 1. Array
 ## 2. multi-dimensional Array (动态规划）
 ## 3. ArrayList (当不确定array size时）
