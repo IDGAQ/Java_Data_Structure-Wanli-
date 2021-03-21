@@ -48,6 +48,10 @@ for(String element : queue) {
     //do something with each element
 }
 ```
+
+ways to turn min PQ to max PQ:
+1. if(x>=y) | negate the comparator
+2. x*=(-1) negate the numbers
 ---
 
 
