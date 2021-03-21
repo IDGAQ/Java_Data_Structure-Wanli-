@@ -50,6 +50,7 @@ for(String element : queue) {
 ```
 ---
 
+
 # Priority Queue
 #### (also called as PQ, heap, 优先队列，or 完全二叉树）
 #### 完全二叉树的条件：
@@ -65,6 +66,8 @@ for(String element : queue) {
 PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>();
 ```
 ---
+
+
 
 # Heap
 ![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%202.33.33%20AM.png)
