@@ -23,7 +23,7 @@ Node(int value){
 #### 1. 要么是空树
 #### 2. 要么有root和两个subtree
 
-### 2 ways to represent
+### two ways to represent
 #### 1.arrays
 #### 2.linked lists
 
