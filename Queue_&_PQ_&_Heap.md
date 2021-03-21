@@ -76,7 +76,9 @@ PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>();
 ![Optional Text](https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.25.48%20AM.png)
 ## Example:
 <img width="460" height="300" src="https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.28.56%20AM.png"> <img width="460" height="300" src="https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.31.43%20AM.png">
+
 <img width="460" height="300" src="https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.32.02%20AM.png"> <img width="460" height="300" src="https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.32.12%20AM.png">
+
 <img width="460" height="300" src="https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.32.40%20AM.png"> <img width="460" height="300" src="https://raw.githubusercontent.com/IDGAQ/Super_Cool_Notes/main/Screen%20Shot%202021-03-22%20at%206.39.21%20AM.png">
 
 ---
