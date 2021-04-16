@@ -13,5 +13,6 @@
 ## [7. Queue（add at end, remove at top)](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Queue_%26_PQ_%26_Heap.md)
 ## [8. Binary Tree](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Binary_Tree.md)
 ## [9. Binary Search Tree](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Binary_Search_Tree.md)
-### updating....
+## [10. TreeMap (Sorted HashMap](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Binary_Search_Tree.md)
+## [11. TreeSet (Sorted HashMap](https://github.com/IDGAQ/Java_Data_Structure-Wanli-/blob/main/Binary_Search_Tree.md)
 ---
