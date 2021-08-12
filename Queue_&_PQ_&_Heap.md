@@ -15,8 +15,8 @@ add(Object)
 offer(Object)
 
 //remove = poll，但是。。。
-// remove top
 remove()
+//remove at top
 poll()
 
 //element = peek，但是。。。
