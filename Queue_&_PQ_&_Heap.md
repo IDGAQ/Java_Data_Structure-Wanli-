@@ -1,5 +1,16 @@
 # Queue
 ---
+## Most Important:
+```java 
+//max PQ
+    PriorityQueue<Integer> PQ = new PriorityQueue<>(10, Collections.reverseOrder());
+    //max PQ
+    PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> y - x);
+    // min PQ
+    PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> x - y);
+```
+
+
 
 ## Declare:
 ```java
