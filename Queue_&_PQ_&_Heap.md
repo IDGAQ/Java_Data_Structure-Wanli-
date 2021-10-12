@@ -8,6 +8,21 @@
     PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> y - x);
     // min PQ
     PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> x - y);
+    
+    //sample
+    Queue<String> queue = new PriorityQueue<>(new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                int count1 = map.get(o1);
+                int count2 = map.get(o2);
+                if (count1 == count2) {
+                    // min
+                    return o1.compareTo(o2);
+                } else {
+                    return count1 - count2;
+                }
+            }
+        });
 ```
 
 
