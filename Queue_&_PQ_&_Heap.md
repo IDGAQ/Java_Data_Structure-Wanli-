@@ -4,9 +4,9 @@
 ```java 
 //max PQ
     PriorityQueue<Integer> PQ = new PriorityQueue<>(10, Collections.reverseOrder());
-    //max PQ
+    //max PQ (max come out first)
     PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> y - x);
-    // min PQ
+    // min PQ (min come out first)
     PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> x - y);
     
     //sample
